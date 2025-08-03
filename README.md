@@ -11,7 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RgeditV1&color=brightgreen&style=plastic&base=10" alt="RgeditV1" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RgeditV1&theme=tokyonight&hide_border=true"  /></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RgeditV1&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a></p>
 
 
 ## 🛠️ My Skills
@@ -57,12 +57,10 @@
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RgeditV1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="192px"/></img>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgeditV1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="192px"/>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=RgeditV1&theme=tokyonight&show_icons=true&hide_border=true" height="192px"/><p/>
+  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgeditV1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="192px"/><p/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
