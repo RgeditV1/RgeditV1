@@ -32,6 +32,10 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
   &emsp;
+	<a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank"> 
+    	<img alt="GDScript" src="https://img.shields.io/badge/GDScript-%23378bba.svg?logo=godotengine&logoColor=white">
+  	</a>
+  	&emsp;
 </p>
 
 ### 👉 Software & Tools
@@ -46,7 +50,9 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+   	<a href="https://godotengine.org">
+  		<img alt="Godot Engine" src="https://img.shields.io/badge/-Godot%20Engine-378bba?logo=godotengine&logoColor=white">
+	</a>
   &emsp;
 </p>
 
@@ -88,4 +94,4 @@
 <hr/>
 
 * Credit: [RgeditV1](https://github.com/RgeditV1)
-* Last Edited on: 03/08/2025
+* Last Edited on: 24/09/2025
