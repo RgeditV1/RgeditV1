@@ -3,9 +3,9 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Engineering+student;computer+technician" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">👨‍💻 I'm a junior desktop application developer with a passion for turning ideas into functional software. I enjoy coding in C++, Python, Java, and C#, and I'm always exploring new ways to improve my skills and build meaningful tools. Currently, I'm studying Systems Engineering at Universidad Dominicana O&M and hold a technical diploma in informática. 
+<h4 align="center"> I'm a junior desktop application developer with a passion for turning ideas into functional software. I enjoy coding in C++, Python, Java, and C#, and I'm always exploring new ways to improve my skills and build meaningful tools.
 
-🚀 I'm driven by curiosity, problem-solving, and the challenge of creating smooth user experiences. My goal is to keep growing as a developer and contribute to innovative projects that make an impact.
+I'm driven by curiosity, problem-solving, and the challenge of creating smooth user experiences. My goal is to keep growing as a developer and contribute to innovative projects that make an impact.
 </h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RgeditV1&color=brightgreen&style=plastic&base=10" alt="RgeditV1" /> </p>
@@ -14,7 +14,7 @@
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RgeditV1&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a></p>
 
 
-## 🛠️ My Skills
+##  My Skills
 
 ### 👉 Programming languages
 
@@ -58,32 +58,8 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=RgeditV1&theme=tokyonight&show_icons=true&hide_border=true" height="192px"/><p/>
-  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgeditV1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="192px"/><p/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="#" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
-## 🙋‍♀️ Let's Connect
+## NetWorking
 <p align="center">
 	<a href="mailto:angelmiguelparedes@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/RgeditV1"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -94,4 +70,4 @@
 <hr/>
 
 * Credit: [RgeditV1](https://github.com/RgeditV1)
-* Last Edited on: 24/09/2025
+* Last Edited on: 10/03/2026
