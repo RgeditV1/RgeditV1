@@ -11,7 +11,14 @@ I'm driven by curiosity, problem-solving, and the challenge of creating smooth u
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RgeditV1&color=brightgreen&style=plastic&base=10" alt="RgeditV1" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RgeditV1&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rgeditv1&show_icons=true&theme=transparent" alt="rgeditv1 GitHub stats" />
+</p>
+
+## 📈 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgeditv1&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
 
 
 ##  My Skills
@@ -70,5 +77,5 @@ I'm driven by curiosity, problem-solving, and the challenge of creating smooth u
 <hr/>
 
 * Credit: [RgeditV1](https://github.com/RgeditV1)
-* Last Edited on: 10/03/2026
+* Last Edited on: 16/03/2026
 * Always Loving Latam 3>
