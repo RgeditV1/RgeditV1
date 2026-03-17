@@ -13,11 +13,13 @@ I'm driven by curiosity, problem-solving, and the challenge of creating smooth u
 ## 🔥 Streak Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rgeditv1&show_icons=true&theme=transparent" alt="rgeditv1 GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Rgeditv1&theme=transparent" alt="Rgeditv1's GitHub Stats" />
 </p>
 
 ## 📈 Most Used Languages
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgeditv1&layout=compact&theme=transparent" alt="Top Languages" />
+  
 </p>
 
 
