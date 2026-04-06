@@ -1,27 +1,11 @@
-<h1 align="center">Hi , I'm Angel Miguel Paredes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Engineering+student;computer+technician" alt="Typing SVG" /></a>
-</p>
-<hr/>
+<h1 align="center">Welcome Stranger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <h4 align="center"> I'm a junior desktop application developer with a passion for turning ideas into functional software. I enjoy coding in C++, Python, Java, and C#, and I'm always exploring new ways to improve my skills and build meaningful tools.
 
 I'm driven by curiosity, problem-solving, and the challenge of creating smooth user experiences. My goal is to keep growing as a developer and contribute to innovative projects that make an impact.
 </h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RgeditV1&color=brightgreen&style=plastic&base=10" alt="RgeditV1" /> </p>
-
-## 🔥 Streak Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rgeditv1&show_icons=true&theme=transparent" alt="rgeditv1 GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Rgeditv1&theme=transparent" alt="Rgeditv1's GitHub Stats" />
-</p>
-
-## 📈 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgeditv1&layout=compact&theme=transparent" alt="Top Languages" />
-  
-</p>
-
 
 ##  My Skills
 
