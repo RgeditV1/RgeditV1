@@ -1,15 +1,7 @@
-<h1 align="center">Welcome Stranger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="center"> I'm a junior desktop application developer with a passion for turning ideas into functional software. I enjoy coding in C++, Python, Java, and C#, and I'm always exploring new ways to improve my skills and build meaningful tools.
+i like emulators and game engines but i do something else
 
-I'm driven by curiosity, problem-solving, and the challenge of creating smooth user experiences. My goal is to keep growing as a developer and contribute to innovative projects that make an impact.
-</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RgeditV1&color=brightgreen&style=plastic&base=10" alt="RgeditV1" /> </p>
-
-##  My Skills
-
-### 👉 Programming languages
+### Programming languages
 
 <p align="left"> 
   &emsp;
@@ -20,10 +12,6 @@ I'm driven by curiosity, problem-solving, and the challenge of creating smooth u
      <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
-   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
   &emsp;
 	<a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank"> 
     	<img alt="GDScript" src="https://img.shields.io/badge/GDScript-%23378bba.svg?logo=godotengine&logoColor=white">
@@ -31,7 +19,7 @@ I'm driven by curiosity, problem-solving, and the challenge of creating smooth u
   	&emsp;
 </p>
 
-### 👉 Software & Tools
+### Software & Tools
  
 <p>
   &emsp;
@@ -63,5 +51,5 @@ I'm driven by curiosity, problem-solving, and the challenge of creating smooth u
 <hr/>
 
 * Credit: [RgeditV1](https://github.com/RgeditV1)
-* Last Edited on: 16/03/2026
+* Last Edited on: 22/09/2026
 * Always Loving Latam 3>
